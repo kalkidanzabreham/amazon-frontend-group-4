@@ -44,7 +44,7 @@
 .subtotal {
     padding: 20px;
     min-width: 300px;
-    height: 20%;
+    height: 200px;
     display: flex;
     flex-direction: column;
     align-items: center;
